@@ -1,4 +1,7 @@
-# test coverage for  [busboy (v0.2.14)](https://github.com/mscdex/busboy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-busboy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-busboy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-busboy.svg)](https://travis-ci.org/npmtest/node-npmtest-busboy)
+# npmtest-busboy
+
+#### basic test coverage for  [busboy (v0.2.14)](https://github.com/mscdex/busboy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-busboy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-busboy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-busboy.svg)](https://travis-ci.org/npmtest/node-npmtest-busboy)
+
 #### A streaming parser for HTML form data for node.js
 
 [![NPM](https://nodei.co/npm/busboy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/busboy)
